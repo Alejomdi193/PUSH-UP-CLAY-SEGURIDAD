@@ -1,0 +1,15 @@
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Persistencia/bin/Debug/net7.0/Persistencia.deps.json
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Persistencia/bin/Debug/net7.0/Persistencia.dll
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Persistencia/bin/Debug/net7.0/Persistencia.pdb
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Persistencia/bin/Debug/net7.0/Dominio.dll
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Persistencia/bin/Debug/net7.0/Dominio.pdb
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Persistencia/obj/Debug/net7.0/Persistencia.csproj.AssemblyReference.cache
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Persistencia/obj/Debug/net7.0/Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Persistencia/obj/Debug/net7.0/Persistencia.AssemblyInfoInputs.cache
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Persistencia/obj/Debug/net7.0/Persistencia.AssemblyInfo.cs
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Persistencia/obj/Debug/net7.0/Persistencia.csproj.CoreCompileInputs.cache
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Persistencia/obj/Debug/net7.0/Persistencia.csproj.CopyComplete
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Persistencia/obj/Debug/net7.0/Persistencia.dll
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Persistencia/obj/Debug/net7.0/refint/Persistencia.dll
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Persistencia/obj/Debug/net7.0/Persistencia.pdb
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Persistencia/obj/Debug/net7.0/ref/Persistencia.dll

@@ -1,0 +1,12 @@
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Dominio/bin/Debug/net7.0/Dominio.deps.json
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Dominio/bin/Debug/net7.0/Dominio.dll
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Dominio/bin/Debug/net7.0/Dominio.pdb
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Dominio/obj/Debug/net7.0/Dominio.csproj.AssemblyReference.cache
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Dominio/obj/Debug/net7.0/Dominio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Dominio/obj/Debug/net7.0/Dominio.AssemblyInfoInputs.cache
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Dominio/obj/Debug/net7.0/Dominio.AssemblyInfo.cs
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Dominio/obj/Debug/net7.0/Dominio.csproj.CoreCompileInputs.cache
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Dominio/obj/Debug/net7.0/Dominio.dll
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Dominio/obj/Debug/net7.0/refint/Dominio.dll
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Dominio/obj/Debug/net7.0/Dominio.pdb
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Dominio/obj/Debug/net7.0/ref/Dominio.dll

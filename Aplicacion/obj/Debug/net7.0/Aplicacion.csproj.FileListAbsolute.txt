@@ -1,0 +1,17 @@
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Aplicacion/bin/Debug/net7.0/Aplicacion.deps.json
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Aplicacion/bin/Debug/net7.0/Aplicacion.dll
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Aplicacion/bin/Debug/net7.0/Aplicacion.pdb
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Aplicacion/bin/Debug/net7.0/Dominio.dll
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Aplicacion/bin/Debug/net7.0/Persistencia.dll
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Aplicacion/bin/Debug/net7.0/Dominio.pdb
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Aplicacion/bin/Debug/net7.0/Persistencia.pdb
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Aplicacion/obj/Debug/net7.0/Aplicacion.csproj.AssemblyReference.cache
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Aplicacion/obj/Debug/net7.0/Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Aplicacion/obj/Debug/net7.0/Aplicacion.AssemblyInfoInputs.cache
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Aplicacion/obj/Debug/net7.0/Aplicacion.AssemblyInfo.cs
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Aplicacion/obj/Debug/net7.0/Aplicacion.csproj.CoreCompileInputs.cache
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Aplicacion/obj/Debug/net7.0/Aplicacion.csproj.CopyComplete
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Aplicacion/obj/Debug/net7.0/Aplicacion.dll
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Aplicacion/obj/Debug/net7.0/refint/Aplicacion.dll
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Aplicacion/obj/Debug/net7.0/Aplicacion.pdb
+/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Aplicacion/obj/Debug/net7.0/ref/Aplicacion.dll

@@ -2675,11 +2675,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Api/Api.csproj",
+      "projectUniqueName": "/Users/alejandromunoz/Desktop/PUSH-UP-CLAY-SEGURIDAD/Api/Api.csproj",
       "projectName": "Api",
-      "projectPath": "/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Api/Api.csproj",
+      "projectPath": "/Users/alejandromunoz/Desktop/PUSH-UP-CLAY-SEGURIDAD/Api/Api.csproj",
       "packagesPath": "/Users/alejandromunoz/.nuget/packages/",
-      "outputPath": "/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Api/obj/",
+      "outputPath": "/Users/alejandromunoz/Desktop/PUSH-UP-CLAY-SEGURIDAD/Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/alejandromunoz/.nuget/NuGet/NuGet.Config"
@@ -2694,8 +2694,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Aplicacion/Aplicacion.csproj": {
-              "projectPath": "/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Aplicacion/Aplicacion.csproj"
+            "/Users/alejandromunoz/Desktop/PUSH-UP-CLAY-SEGURIDAD/Aplicacion/Aplicacion.csproj": {
+              "projectPath": "/Users/alejandromunoz/Desktop/PUSH-UP-CLAY-SEGURIDAD/Aplicacion/Aplicacion.csproj"
             }
           }
         }

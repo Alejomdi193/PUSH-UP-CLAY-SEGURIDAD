@@ -804,11 +804,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Persistencia/Persistencia.csproj",
+      "projectUniqueName": "/Users/alejandromunoz/Desktop/PUSH-UP-CLAY-SEGURIDAD/Persistencia/Persistencia.csproj",
       "projectName": "Persistencia",
-      "projectPath": "/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Persistencia/Persistencia.csproj",
+      "projectPath": "/Users/alejandromunoz/Desktop/PUSH-UP-CLAY-SEGURIDAD/Persistencia/Persistencia.csproj",
       "packagesPath": "/Users/alejandromunoz/.nuget/packages/",
-      "outputPath": "/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Persistencia/obj/",
+      "outputPath": "/Users/alejandromunoz/Desktop/PUSH-UP-CLAY-SEGURIDAD/Persistencia/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/alejandromunoz/.nuget/NuGet/NuGet.Config"
@@ -823,8 +823,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Dominio/Dominio.csproj": {
-              "projectPath": "/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Dominio/Dominio.csproj"
+            "/Users/alejandromunoz/Desktop/PUSH-UP-CLAY-SEGURIDAD/Dominio/Dominio.csproj": {
+              "projectPath": "/Users/alejandromunoz/Desktop/PUSH-UP-CLAY-SEGURIDAD/Dominio/Dominio.csproj"
             }
           }
         }

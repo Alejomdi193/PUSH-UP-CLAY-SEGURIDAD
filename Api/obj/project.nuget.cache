@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3F6Nw/7CE/9bDXfWylHV9SySxM3V8NWTvU0gzHbBtGSnM06y8p1XgJgUfdRLcKY79DU7OKxdhYNSKkXunDgf5A==",
+  "dgSpecHash": "UB91YnGaWUtcdZ3SZViCOgNMEi9oKZKE29x2HsPSADkF0yhcooJ5QUjFEXPMj2S2ukKQ6WUoizgAYafk3XIdlQ==",
   "success": true,
-  "projectFilePath": "/Users/alejandromunoz/Desktop/PushUpClaySeguridad/Api/Api.csproj",
+  "projectFilePath": "/Users/alejandromunoz/Desktop/PUSH-UP-CLAY-SEGURIDAD/Api/Api.csproj",
   "expectedPackageFiles": [
     "/Users/alejandromunoz/.nuget/packages/aspnetcoreratelimit/5.0.0/aspnetcoreratelimit.5.0.0.nupkg.sha512",
     "/Users/alejandromunoz/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
